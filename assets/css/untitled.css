@@ -1,0 +1,11 @@
+hr {
+  /*max-width: 50px;*/
+  /*border-width: 3px;*/
+  border-color: #2b0eda;
+  max-width: 125px;
+}
+
+#about {
+  background-color: rgb(131,16,106);
+}
+
